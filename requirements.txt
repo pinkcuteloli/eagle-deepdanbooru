@@ -1,0 +1,3 @@
+git+https://github.com/KichangKim/DeepDanbooru@v3-20200915-sgd-e30#egg=deepdanbooru
+tensorflow==2.15.0.post1
+pillow-avif-plugin==1.4.3
